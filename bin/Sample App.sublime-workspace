@@ -1,0 +1,271 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "twitter_follow_thanks.rb",
+			"settings":
+			{
+				"buffer_size": 954,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"contents": "",
+			"file": "/C/Users/Mickey/rails_projects/ruby-getting-started/Gemfile",
+			"file_size": -1,
+			"file_write_time": -1,
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/Mickey/rails_projects/ruby-getting-started/config/unicorn.rb",
+		"/C/Users/Mickey/rails_projects/ruby-getting-started/app/views/layouts/application.html.erb",
+		"/C/Users/Mickey/rails_projects/sample_app/Gemfile",
+		"/C/Users/Mickey/rails_projects/sample_app/config/routes.rb",
+		"/C/Users/Mickey/rails_projects/sample_app/spec/requests/user_pages_spec.rb",
+		"/C/Users/Mickey/rails_projects/sample_app/app/views/users/new.html.erb",
+		"/C/Users/Mickey/rails_projects/sample_app/app/views/static_pages/home.html.erb",
+		"/C/Users/Mickey/rails_projects/sample_app/spec/requests/static_pages_spec.rb",
+		"/C/Users/Mickey/rails_projects/sample_app/spec/support/utilities.rb",
+		"/C/Users/Mickey/rails_projects/sample_app/app/controllers/users_controller.rb",
+		"/C/Users/Mickey/rails_projects/sample_app/app/views/layouts/_footer.html.erb",
+		"/C/Users/Mickey/rails_projects/sample_app/app/views/layouts/_header.html.erb",
+		"/C/Users/Mickey/rails_projects/sample_app/app/views/static_pages/contact.html.erb",
+		"/C/Users/Mickey/rails_projects/sample_app/app/controllers/static_pages_controller.rb",
+		"/C/Users/Mickey/rails_projects/sample_app/app/views/static_pages/help.html.erb",
+		"/C/Users/Mickey/rails_projects/sample_app/app/views/static_pages/about.html.erb",
+		"/C/Users/Mickey/rails_projects/sample_app/app/helpers/static_pages_helper.rb",
+		"/C/Users/Mickey/rails_projects/sample_app/app/assets/stylesheets/custom.css.scss",
+		"/C/Users/Mickey/rails_projects/sample_app/app/views/layouts/application.html.erb",
+		"/C/Users/Mickey/rails_projects/sample_app/app/assets/stylesheets/application.css",
+		"/C/Users/Mickey/rails_projects/sample_app/app/views/layouts/_shim.html.erb",
+		"/C/Users/Mickey/rails_projects/sample_app/config/application.rb",
+		"/C/Users/Mickey/rails_projects/sample_app/app/helpers/application_helper.rb",
+		"/C/Users/Mickey/rails_projects/sample_app/example_user.rb",
+		"/C/Users/Mickey/rails_projects/sample_app/spec/spec_helper.rb",
+		"/C/Users/Mickey/rails_projects/sample_app/.rspec",
+		"/C/Users/Mickey/rails_projects/sample_app/Guardfile",
+		"/C/Users/Mickey/AppData/Roaming/Sublime Text 2/Packages/RubyTest/Default (Windows).sublime-keymap",
+		"/C/Users/Mickey/AppData/Roaming/Sublime Text 2/Packages/RubyTest/RubyTest.sublime-settings",
+		"/C/Users/Mickey/rails_projects/sample_app/README.rdoc",
+		"/C/Users/Mickey/rails_projects/sample_app/config/initializers/secret_token.rb",
+		"/C/RailsInstaller/DevKit/home/Mickey/rails_projects/first_app/README.md",
+		"/C/Users/Mickey/rails_projects/demo_app/README.rdoc",
+		"/C/Users/Mickey/rails_projects/sample_app/.gitignore",
+		"/C/Users/Mickey/rails_projects/sample2_app/Gemfile",
+		"/C/Users/Mickey/rails_projects/demo_app/.gitignore",
+		"/C/Users/Mickey/rails_projects/sample_app/config/environments/production.rb",
+		"/C/Users/Mickey/rails_projects/demo_app/app/controllers/users_controller.rb",
+		"/C/Users/Mickey/rails_projects/demo_app/app/models/micropost.rb",
+		"/C/Users/Mickey/rails_projects/demo_app/app/models/user.rb",
+		"/C/Users/Mickey/rails_projects/demo_app/app/views/layouts/application.html.erb",
+		"/C/Users/Mickey/rails_projects/demo_app/Gemfile",
+		"/C/Users/Mickey/rails_projects/demo_app/app/controllers/application_controller.rb",
+		"/C/Users/Mickey/rails_projects/demo_app/app/views/users/index.html.erb",
+		"/C/Users/Mickey/rails_projects/demo_app/app/views/users/new.html.erb",
+		"/C/Users/Mickey/rails_projects/demo_app/app/views/users/edit.html.erb",
+		"/C/Users/Mickey/rails_projects/demo_app/app/views/users/show.html.erb",
+		"/C/Users/Mickey/rails_projects/demo_app/app/views/users/_form.html.erb",
+		"/C/Users/Mickey/rails_projects/demo_app/config/routes.rb",
+		"/C/Users/Mickey/rails_projects/demo_app/app/views/users/index.json.jbuilder",
+		"/C/RailsInstaller/DevKit/home/Mickey/rails_projects/first_app/.gitignore",
+		"/C/RailsInstaller/DevKit/home/Mickey/rails_projects/first_app/Gemfile",
+		"/C/Users/Mickey/rails_projects/demo_app/Gemfile.lock",
+		"/C/RailsInstaller/DevKit/msys.bat"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"json",
+			"jsom",
+			"oauth",
+			"oath",
+			"bundle exec",
+			"bundle",
+			"web:"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "twitter_follow_thanks.rb",
+					"settings":
+					{
+						"buffer_size": 954,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								803,
+								803
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage",
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/C/Users/Mickey/rails_projects/ruby-getting-started/Gemfile",
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Ruby/Ruby.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 118.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 202.0,
+	"status_bar_visible": true
+}

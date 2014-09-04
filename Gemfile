@@ -1,5 +1,10 @@
 source 'https://rubygems.org'
 ruby '1.9.3'
+gem 'twitter'
+gem 'clockwork'
+gem 'oauth'
+gem 'json'
+gem 'delayed_job_active_record'
 #ruby-gemset=railstutorial_rails_4_0
 
 gem 'rails', '4.0.8'
